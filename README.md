@@ -1,4 +1,4 @@
-# git
+# git 66P
 
 ### git 설치확인
 
@@ -35,5 +35,23 @@ git add .
 ### git 커밋하기
 ```
 git commit -m "commit message"
+
+// 커밋 메세지 수정
+git commit --amend
+```
+
+### git 로그 확인
+```
+git log
+```
+
+### git 변경사항 확인
+```
+git diff
+```
+
+### git 푸쉬하기
+```
+git push
 ```
 
